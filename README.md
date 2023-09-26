@@ -19,7 +19,7 @@ To install this application, you will clone the repository from GitHub and `run 
 ## Usage
 
 This application will allow users to search for books and view 10 results. Users are able to sign up and login in. Logged in users can save a book and view a page of saved books. Users can also remove books from their saved page.
-Please view deployed application at [Heroku](https://ah-book-search.herokuapp.com/).
+Please view deployed application at [Heroku](https://mern-book-convert-74118dbaeea8.herokuapp.com/).
 
 ## Screenshot
 ![Book Search](client/public/images/screen-shot.png)
